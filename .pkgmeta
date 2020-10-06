@@ -1,0 +1,8 @@
+package-as: DataStore_Pets
+
+move-folders:
+ DataStore_Pets/DataStore_Pets: DataStore_Pets
+
+ignore:
+ - LICENCE.md
+ - README.md
