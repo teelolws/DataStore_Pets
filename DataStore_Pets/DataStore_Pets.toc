@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: DataStore_Pets
 ## Notes: Stores information about character pets and mounts
 ## Author: Thaoky (EU-Marécages de Zangar)
